@@ -1,3 +1,0 @@
-# QLNS_ADO.NET
-HCMUTE
-Group 09
