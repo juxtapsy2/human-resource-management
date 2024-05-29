@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QLNS_ADO.NET.DB_Layer.DBMain">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAACQAAAQAAICAAAAAAAA=</HashCode>
+      <FileName>DB_Layer\DBMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_TaiKhoan">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_TaiKhoan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_NhanVien">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAARAQAAAAAAAAAIAAAAAAAAAAAAAAhAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_PhongBan">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAQACAAAAAAAAAACACAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_PhongBan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_DuAn">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAgQAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_DuAn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_TimKiem">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_TimKiem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_HopDong">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAICAAYAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>BS_Layer\BL_HopDong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_Luong">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAQAAAAAAAAAgAAAAAAAIAAAAAAAAQAAAA=</HashCode>
+      <FileName>BS_Layer\BL_Luong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_ThanNhan">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAABQAAAAAAAAAAAAAAAAIAAAABAAAAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_ThanNhan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_ThoiViec">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAQAAAAAAAAAABAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>BS_Layer\BL_ThoiViec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_PhanCong">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_PhanCong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.BS_Layer.BL_Export">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BS_Layer\BL_Export.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormMain" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wZEAhVciCAAQFAAAAWiCACCAzCACQhAEAAAARJvACg=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormDangNhap" Collapsed="true">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQSAAAAIAQACAAAACAAABCAAAAABAAAEEAAA=</HashCode>
+      <FileName>Forms\DangNhap\FormDangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormTaiKhoan" Collapsed="true">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAECAIABAEgACAAAACIAAAQAAAAAAAAABEAEA=</HashCode>
+      <FileName>Forms\DangNhap\FormTaiKhoan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormDSDuAn" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAACIgAACIAAQBgAAKAIQACAAAAAEJAUARIAAQACCA=</HashCode>
+      <FileName>Forms\DuAn\FormDSDuAn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormThemDuAn" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAGAAAQgACACACAAAACAIAADAEAAAAAAYAAAAAIAAAA=</HashCode>
+      <FileName>Forms\DuAn\FormThemDuAn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.HopDong.FormHopDong" Collapsed="true">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABBAIkjAKIIABABAACAEAQCCAAJAAAgQBEAAAAAACA=</HashCode>
+      <FileName>Forms\HopDong\FormHopDong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormThemNhanVien" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECBAlEAAACAAABAAMACACAAGAgAEAAAAwAAICAJAAEA=</HashCode>
+      <FileName>Forms\NhanVien\FormThemNhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormDSNhanVien" Collapsed="true">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UiBkEABEACQUADAAAACAiAgOAAAAAUgAgAACAAJAAFE=</HashCode>
+      <FileName>Forms\NhanVien\FormDSNhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormCanhBaoXoa" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAEAAAAACAAABAAAAiAAAACAAQIAAAAAEACAAAABAA=</HashCode>
+      <FileName>Forms\NhanVien\FormCanhBaoXoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.PhongBan.FormThemPhongBan" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACIAAAAEgBKAEAQCAAAAAAgAAAAEABAQGAA=</HashCode>
+      <FileName>Forms\PhongBan\FormThemPhongBan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.PhongBan.FormDSPhongBan" Collapsed="true">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQQAAAAAGKAAFQkgALAIQECAAgAAARAAAIAAAIACAA=</HashCode>
+      <FileName>Forms\PhongBan\FormDSPhongBan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormLuong" Collapsed="true">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAFEOiCAAAAAAAgKECEACAJAACAAAkAAAQAAAACA=</HashCode>
+      <FileName>Forms\Luong\FormLuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormThanNhan" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAAFBCKQABAgMACAAAICQAEAAEAAAAASAAAAAAE=</HashCode>
+      <FileName>Forms\ThanNhan\FormThanNhan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.ThoiViec.FormThoiViec" Collapsed="true">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYAAABECQAADAgAADAsQAGAgAAAACAAAAAAAAACAA=</HashCode>
+      <FileName>Forms\ThoiViec\FormThoiViec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormTimKiem" Collapsed="true">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRFAA4ghAiQAACSBUGLAmAhGK4BUAAQAoCBAASRgg0A=</HashCode>
+      <FileName>Forms\TimKiem\FormTimKiem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.ThongKe.FormThongKe" Collapsed="true">
+    <Position X="5.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAACAAAACAAAAAAAQCAAAAABgACA=</HashCode>
+      <FileName>Forms\ThongKe\FormThongKe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormThongKeLuong" Collapsed="true">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACAAAACAAAAACIAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\ThongKe\FormThongKeLuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.ThongKe.FormThongKeNhanLuc" Collapsed="true">
+    <Position X="9.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAICAAAACAAAAAAAAAAEAIAAAAAA=</HashCode>
+      <FileName>Forms\ThongKe\FormThongKeNhanLuc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormReportLuong" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAEACAgAACICIAGEAAAAABAAAAAQAAgQAA=</HashCode>
+      <FileName>Forms\Reports\FormReportLuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.FormReportTongQuanNV" Collapsed="true">
+    <Position X="2.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAACAKAEAAAAAACAAACCAgABAAAgAAAAgAAAQCA=</HashCode>
+      <FileName>Forms\Reports\FormReportTongQuanNV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QLNS_ADO.NET.Forms.About.FormAbout" Collapsed="true">
+    <Position X="4" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAEACCAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\About\FormAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
